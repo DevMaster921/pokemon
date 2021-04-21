@@ -20,9 +20,9 @@ This project uses lot of stuff as:
 First of all, you need to clone this repository:
 
 ```bash
-https: git clone https://github.com/gabriel-brito/poke-search.git
+https: git clone https://github.com/DevMaster921/pokemon.git
 # or
-SSH: git clone git@github.com:gabriel-brito/poke-search.git
+SSH: git clone git@github.com:DevMaster921/pokemon.git
 ```
 
 Install dependencies:
